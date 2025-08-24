@@ -1,8 +1,13 @@
+<div align="center">
+
+
+
+![Hacker Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=$+PythonPrograms;Vegam+check+cheyth+tarumoo+misseeee+\u1F634)
+</div>
 
 
 
 
-![Hacker Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=$+Python Programs;Vegam+check+cheyth+tarumoo+misseeee+\u1F634)
 <br/>
 
 <div align="center">
