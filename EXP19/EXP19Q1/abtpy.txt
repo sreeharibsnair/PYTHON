@@ -1,2 +1,0 @@
-Python is a interpreter language
-Python is mainly used in ML and AI
